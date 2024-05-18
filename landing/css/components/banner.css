@@ -1,0 +1,26 @@
+.banner {
+  background-image: url("../../images/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  width: auto;
+  height: 700px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container-top {
+  text-align: left;
+  height: 300px;
+  padding: 16px 50px;
+}
+.banner a {
+  background-color: rgb(96, 238, 163);
+  border-radius: 30px;
+  padding: 16px 34px;
+  color: white;
+  display: inline-block;
+}
+.banner p {
+  color: rgb(137, 135, 135);
+}
